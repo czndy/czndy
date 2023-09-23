@@ -1,3 +1,5 @@
+# 👋 Hello! Welcome to my Github profile.
+## My name is Guilherme Cozendey, but you may call me "Gui"!
 
 <div>
   <a href="https://github.com/czndy">
